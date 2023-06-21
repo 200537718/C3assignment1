@@ -1,6 +1,6 @@
 ﻿
-//SIMRANJIT  KAUR
-//200536453
+//Jaspreet Kaur
+//200537718
 //ASSIGNMENT 1
     using Csharp_Assignment_1;
 using System;
